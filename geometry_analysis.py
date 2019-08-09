@@ -1,6 +1,8 @@
 """
 geometry_analysis.def ():
 This module contains geometry analysis.
+
+Author: Nuwan De Silva
 """
 
 import numpy
